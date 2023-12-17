@@ -1,0 +1,12 @@
+{
+    "name":"Live league Tables",
+    "version":"1.0.0",
+    "description":"This is an extension to look up Live football league Tables",
+    "manifest_version":"2",
+    "author":"Yusuf Ali",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Football League Tables"
+    }
+
+}
